@@ -44,7 +44,7 @@
         },
         "START_PIC": {
             "description": "Your Bot start cmd Pic from @HK_telegraph_BOT",
-            "value": "",
+            "value": "https://telegra.ph/file/80f26bf1b68adce3242c3.jpg",
             "required": false
         }
     },
