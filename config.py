@@ -15,7 +15,7 @@ class Config(object):
  
     # other configs
     BOT_UPTIME  = time.time()
-    START_PIC   = os.environ.get("START_PIC", "")
+    START_PIC   = os.environ.get("START_PIC", "https://telegra.ph/file/80f26bf1b68adce3242c3.jpg")
     ADMIN       = [int(admin) if id_pattern.search(admin) else admin for admin in os.environ.get('ADMIN', "5090651635").split()]
     FORCE_SUB   = os.environ.get("FORCE_SUB", "Anime_X_Hunters") 
     LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", ""))
@@ -39,8 +39,8 @@ Tʜɪs Bᴏᴛ Aʟꜱᴏ Sᴜᴘᴘᴏʀᴛs Cᴜsᴛᴏᴍ Tʜᴜᴍʙɴᴀɪʟ
 
     ABOUT_TXT = """<b>┏━━━━━━━━━━━━━━━━⍟
 ┃🤖 ᴍy ɴᴀᴍᴇ : {}
-┃👨‍💻 Pʀᴏɢʀᴀᴍᴇʀ : <a href=https://t.me/Its_Tartaglia_Childe>ησzєℓ ѕιℓνα</a>
-┃☃️ ꜰᴏᴜɴᴅᴇʀ ᴏꜰ : <a href=https://t.me/Anime_X_Hunters>Anime X Hunters</a>
+┃👨‍💻 Pʀᴏɢʀᴀᴍᴇʀ : <a href=https://t.me/amnotzoro>LUFFY</a>
+┃☃️ ꜰᴏᴜɴᴅᴇʀ ᴏꜰ : <a href=https://t.me/Anime_Chidori>AnimeChidori</a>
 ┃📕 Lɪʙʀᴀʀy : <a href=https://github.com/pyrogram>Pyʀᴏɢʀᴀᴍ</a>
 ┃✏️ Lᴀɴɢᴜᴀɢᴇ: <a href=https://www.python.org>Pyᴛʜᴏɴ 3</a>
 ┃💾 Dᴀᴛᴀ Bᴀꜱᴇ: <a href=https://cloud.mongodb.com>Mᴏɴɢᴏ DB</a>
