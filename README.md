@@ -9,7 +9,7 @@
 
 ## Deploy To Render              
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/Sahil0976/Premium-Rename)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/cincent653/Luffy_rename/pulls)
 
 ## Deploy To Railway
 
